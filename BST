@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 //C++
-
+//program
 struct node{
     int data;
     node*left;
