@@ -8,7 +8,7 @@ struct node{
     node*left;
     node*right;
 };
-
+// My na,e is rachit
 
   void inorder(node *root)
   {
